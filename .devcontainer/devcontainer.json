@@ -14,7 +14,7 @@
 	"waitFor": "onCreateCommand",
 	"updateContentCommand": "pip3 install -r requirements.txt",
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "datasette data.db"
+	"postCreateCommand": "datasette data.db --create"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
