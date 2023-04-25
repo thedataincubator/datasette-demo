@@ -1,0 +1,9 @@
+datasette
+datasette-codespaces
+datasette-vega
+datasette-cluster-map
+datasette-copyable
+datasette-configure-fts
+datasette-edit-schema
+datasette-upload-csvs
+sqlite-utils
